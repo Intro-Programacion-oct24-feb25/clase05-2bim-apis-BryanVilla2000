@@ -24,7 +24,7 @@ public class DatoFinal {
         return promedio;
     }
 
-    public static double obtenerMejorNoja(double[] misNotas) {
+    public static double obtenerMejorNota(double[] misNotas) {
         double mejorNota = misNotas[0];
         for (int i = 0; i < misNotas.length; i++) {
             if (misNotas[i] > mejorNota) {

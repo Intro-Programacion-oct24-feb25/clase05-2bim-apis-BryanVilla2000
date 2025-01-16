@@ -12,10 +12,10 @@ import org.apache.commons.lang3.RandomUtils;
  * @author reroes
  */
 public class Ejemplo002 {
-    
+
     public static void main(String[] args) {
         int v = RandomUtils.nextInt(20, 25);
-        
+
         System.out.printf("%d\n", v);
     }
 }
