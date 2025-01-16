@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class DatoTrabajo {
 
     // método que permita preguntar al usuario el nombre de la empresa
-    public static String obtenerNombreEmpresa() {
+    public static String obtenerNombre() {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese nombre de la empresa");
         String nombreEmpresa = entrada.nextLine();
