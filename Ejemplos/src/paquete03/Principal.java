@@ -24,7 +24,7 @@ public class Principal {
         int multiplicacion = OperadorTres.obtenerMultiplicacion(valorA, 
                                                                 valorB);
         /*
-        importo a la clase impri,ir que se encientra en el paquete06
+        importo a la clase imprimir que se encientra en el paquete06
         la cual tiene un metodo llamado imprimirMensaje que resive 4 parametros 
         y los presemta en pantalla en un mensaje construido
         */
